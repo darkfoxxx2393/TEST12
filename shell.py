@@ -18,7 +18,7 @@ def main():
         c = c.split()
         caller(c)
         
-        
+        #HOLOLOLOLOLO
     return 0
 
 # la idea es usar un diccionario asi no tengo que usar estos if-elif xD
